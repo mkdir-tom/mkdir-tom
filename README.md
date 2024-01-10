@@ -72,7 +72,7 @@
 
 <h2 align="left">🔥 My Stats</h2>
 
-> languages - tools, I use for work
+> my stats latest
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=mkdir-tom&theme=react&card_width=467&ring=0DD003&fire=F7A91F&currStreakNum=F7A91F&dates=D0EBC8&excludeDaysLabel=EB5454&sideNums=F7A91F" alt="GitHub Streak">
